@@ -1,1 +1,96 @@
+body{
+  font-family:'Poppins', sans-serif;
+  margin:0;
+}
+h1{
+  font-size:50px;
+}
+section{
+  display:flex;
+  border:2px black solid;
+  margin-bottom:100px;
+  margin-top:100px;
 
+  
+}
+.half-width-image{
+  width:100%;
+  border:2px black solid;
+  
+  
+}
+.half-width{
+  padding-left:10px;
+  float:left;
+  margin-left:10px;
+  
+}
+.color{
+  color:orange;
+}
+p{
+  text-align:justify;
+}
+.link-button{
+  text-decoration:none;
+  background-color:orange;
+  padding:5px 20px;
+  border-radius:5px;
+  background-image:linear-gradient(orange,tomato);
+  color:white;
+  font-weight:700;
+ 
+
+}
+.triple-image{
+  display:flex;
+  margin: bottom 100px;
+ 
+}
+.second-image{
+  width:600px;
+  box-shadow:40px 20px 30px gray;
+}
+.footer-section{
+  display:flex;
+  width:100%;
+
+}
+.footer-image{
+  width:30px;
+  height:20px;
+  margin:10px 700px 0px ;
+}
+.design{
+  background-color:pink;
+  background-image:linear-gradient( tomato, orange);
+  padding:5px 60px 30px;
+  border-radius:5px;
+  margin:80px 200px 30px;
+  box-shadow:40px 20px 30px gray;
+}
+.what-people{
+  color:white;
+ 
+}
+.client-saying{
+  
+  margin:0px 150px;
+  
+  margin-bottom:100px;
+  margin-top:0px;
+}
+.saying{
+  padding:0px 420px;
+  text-align:justify;
+}
+.about{
+ 
+  margin-top:0px;
+}
+.about-class{
+  text-decoration:none;
+  color:#333;
+  list-style:none;
+  display:flex;
+}
